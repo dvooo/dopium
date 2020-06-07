@@ -1,0 +1,26 @@
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+
+#wrapper{
+	margin: 0 auto;
+	padding: 0;
+	max-width: 1020px;
+	width: 100%;
+	position: relative;
+	background: #fff;
+	border:  1px solid #99988b;
+        border-top: 1px dotted #99988b;
+	}
+
+#content{
+	max-width: 910px;
+	text-align: center;
+	padding: 40px 0;
+	margin: 0 52px;
+	}
+
+#content2 {
+	max-width: 725px;
+	text-align: left;
+	padding: 40px 0;
+	margin: 0 65px;
+	}

@@ -12,17 +12,9 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 #content{
 	max-width: 910px;
 	text-align: center;
-	padding: 40px 0;
+	padding: 20px 0;
 	margin: 0 152px;
 	}
-
-#content2 {
-	max-width: 725px;
-	text-align: left;
-	padding: 40px 0;
-	margin: 0 65px;
-	}
-
 
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
